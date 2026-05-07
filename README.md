@@ -1,7 +1,7 @@
 <div align="center">
-<p>OGX_ODIN</p>
+
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:1d4ed8,100:3b82f6&height=200&section=header&text=PacketIQ&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20PCAP%20Forensics%20%26%20SOC%20Intelligence%20Platform&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="PacketIQ Banner"/>
+<img width="1728" height="986" alt="Screenshot 2026-05-07 at 1 43 46 AM" src="https://github.com/user-attachments/assets/8d2885e4-f389-4f7a-8a9f-dc78f5eb8f2f" width="100%" alt="PacketIQ Banner"/>
 
 <!-- Animated typing SVG -->
 <a href="https://github.com/PacketIQ">
