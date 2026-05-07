@@ -1,5 +1,5 @@
 <div align="center">
-
+<p>OGX_ODIN</p>
 <!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:1d4ed8,100:3b82f6&height=200&section=header&text=PacketIQ&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20PCAP%20Forensics%20%26%20SOC%20Intelligence%20Platform&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="PacketIQ Banner"/>
 
